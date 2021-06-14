@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Avtronboy
-- 👀 I’m interested in learning a little macOS and iOS development and getting into gamedev, specifically the GameMaker Studio 2 and Unity engines .
+- 👀 I’m interested in learning a little macOS and iOS development and getting into gamedev, specifically the GameMaker Studio 2 and Unity engines. I'm also interested in 'mainline' programming, specifically stuff like C++ and JavaScript.
 - 🌱 I’m currently learning not much. I would learn GML but GMS2 is rather a bit expensive and Unity is a bit ... complicated.
 - 💞️ I’m looking to collaborate on something! Perhaps a game, perhaps a webtoy, perhaps something else.
 - 📫 How to reach me: you can find me on Discord at Avtron#9146, and ummmm that's it. I guess I have a Pikipedia profile (User:Avtron)?
